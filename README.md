@@ -12,9 +12,11 @@ Search by tool ("MCP", "Higgsfield"), sort by views, open the reel.
 
 ## Ready-made example: @nateherkai, 114 reels (4 Jul to 4 Oct 2026)
 
+**▶ Open it in your browser:** https://buildmeight-beep.github.io/instagram-reel-index/examples/nateherkai/overview-standalone.html
+
 | File | What |
 |---|---|
-| [`examples/nateherkai/overview-standalone.html`](examples/nateherkai/overview-standalone.html) | The overview as one file (5.2 MB, covers inside). Open the link, click **Download raw file**, then double-click the file to open it in your browser |
+| [`examples/nateherkai/overview-standalone.html`](examples/nateherkai/overview-standalone.html) | The same overview as one file to keep (5.2 MB, covers inside). Open the link, click **Download raw file**, then double-click the file |
 | [`examples/nateherkai/overview.xlsx`](examples/nateherkai/overview.xlsx) | Excel with cover pictures, filters on every column, and a **Tools** sheet ranking every tool by how many reels name it |
 
 Unofficial index of public posts, not made or endorsed by Nate Herk.
