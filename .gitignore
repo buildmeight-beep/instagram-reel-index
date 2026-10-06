@@ -1,0 +1,18 @@
+.env
+.env.*
+!.env.example
+*credentials*
+*token*
+*oauth*
+*service_account*
+*api_key*
+*secret*
+*.pem
+*.key
+__pycache__/
+*.pyc
+# scrape working data (raw provider responses, cost log with account run links)
+instagram-index/
+raw/
+work/
+charges.log
